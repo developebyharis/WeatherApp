@@ -209,9 +209,14 @@ body {
 }
 
 @media screen and (max-width: 700px) {
-  .heading,
+  
   .ajax-section .city-temp {
     font-size: 3rem;
+  }
+  .heading {
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 120px;
   }
   
   .ajax-section {
@@ -274,4 +279,3 @@ body {
   text-decoration: none;
 }
 
-Resources
